@@ -1,6 +1,8 @@
-<div align="center" >
-  <img src="./yokoD.svg" alt="MDN" role="img" width="256" />
+<a href="https://yamatekyuko.github.io">
+<div align="center">
+  <img src="./yokoD.svg" alt="Yamakyu" role="img" width="492" />
 </div>
+</a>
 
 <h2 align="center">Yamakyu's Github</h2>
 

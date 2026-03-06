@@ -12,8 +12,8 @@
         .text * {fill: #fff;}
       }
 
-      *:lang(en) {fill: #f00 !important;}
-      *:lang(ja) {fill: #0f0 !important;}
+      <!-- *:lang(EN) {fill: #f00 !important;} -->
+      <!-- *:lang(ja) {fill: #0f0 !important;} -->
     </style>
   </defs>
   <g>
