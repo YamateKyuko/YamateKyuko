@@ -5,7 +5,7 @@
       .back {fill: none;}
       .logo * {fill: #006400;}
       .text * {fill: #000;}
-      .back {fill: #888;}
+      <!-- .back {fill: #888;} -->
       
       @media (prefers-color-scheme: dark) {
         .logo polygon {fill: #fff;}
@@ -13,6 +13,7 @@
       }
 
       *:lang(en) {fill: #f00 !important;}
+      *:lang(ja) {fill: #0f0 !important;}
     </style>
   </defs>
   <g>
